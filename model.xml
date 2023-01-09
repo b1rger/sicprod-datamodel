@@ -24,7 +24,7 @@
     <description><p>Dokumentation des SiCProD Datenmodells.</p></description>
     <classes>
         <class ID="person">
-            <name>Person</name>
+            <name>person</name>
             <definition>
                 <p>Person, eine Subklasse von <className>crm:E21_Person</className>.</p>    
             </definition>
